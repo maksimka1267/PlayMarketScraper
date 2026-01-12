@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMarketScraper.Applicati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMarketScraper.Infrastructure", "PlayMarketScraper.Infrastructure\PlayMarketScraper.Infrastructure.csproj", "{58F00C41-3C97-49C8-831F-20F52D089CBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMarketScraper.Cli", "PlayMarketScraper.Cli\PlayMarketScraper.Cli.csproj", "{8F20DC13-E8C3-4FAF-8F7B-F913EC99B934}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{58F00C41-3C97-49C8-831F-20F52D089CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58F00C41-3C97-49C8-831F-20F52D089CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58F00C41-3C97-49C8-831F-20F52D089CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F20DC13-E8C3-4FAF-8F7B-F913EC99B934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F20DC13-E8C3-4FAF-8F7B-F913EC99B934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F20DC13-E8C3-4FAF-8F7B-F913EC99B934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F20DC13-E8C3-4FAF-8F7B-F913EC99B934}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,5 +1,4 @@
-﻿using PlayMarketScraper.Application.Abstractions;
-using PlayMarketScraper.Application.Interface;
+﻿using PlayMarketScraper.Application.Interface;
 using PlayMarketScraper.Application.Models;
 using PlayMarketScraper.Domain.Models;
 using PlayMarketScraper.Infrastructure.Http;
