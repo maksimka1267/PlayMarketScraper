@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36221.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMarketScraper.Domain", "PlayMarketScraper.Domain\PlayMarketScraper.Domain.csproj", "{735D776B-EF70-4D68-B198-DDAC9A77AD1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMarketScraper.Application", "PlayMarketScraper.Application\PlayMarketScraper.Application.csproj", "{6906846B-A53E-4B19-8B20-2270442BA677}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{735D776B-EF70-4D68-B198-DDAC9A77AD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{735D776B-EF70-4D68-B198-DDAC9A77AD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{735D776B-EF70-4D68-B198-DDAC9A77AD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6906846B-A53E-4B19-8B20-2270442BA677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6906846B-A53E-4B19-8B20-2270442BA677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6906846B-A53E-4B19-8B20-2270442BA677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6906846B-A53E-4B19-8B20-2270442BA677}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
