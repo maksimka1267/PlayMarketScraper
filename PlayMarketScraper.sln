@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36221.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMarketScraper", "PlayMarketScraper\PlayMarketScraper.csproj", "{370A4905-2DF6-4882-927B-5C206E3A75AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayMarketScraper.Domain", "PlayMarketScraper.Domain\PlayMarketScraper.Domain.csproj", "{735D776B-EF70-4D68-B198-DDAC9A77AD1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{370A4905-2DF6-4882-927B-5C206E3A75AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{370A4905-2DF6-4882-927B-5C206E3A75AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{370A4905-2DF6-4882-927B-5C206E3A75AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{370A4905-2DF6-4882-927B-5C206E3A75AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735D776B-EF70-4D68-B198-DDAC9A77AD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735D776B-EF70-4D68-B198-DDAC9A77AD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735D776B-EF70-4D68-B198-DDAC9A77AD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735D776B-EF70-4D68-B198-DDAC9A77AD1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
